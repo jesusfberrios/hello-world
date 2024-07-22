@@ -1,2 +1,2 @@
 # hello.py
-print("Hello, World!\nThe quick brown fox jumps over the lazy dog\n ya o1k!")
+print("Hello, World!\nThe quick brown fox jumps over the lazy dog\n ya o21k!")
