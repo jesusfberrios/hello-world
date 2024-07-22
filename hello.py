@@ -1,2 +1,2 @@
 # hello.py
-print("Hello, World!\n DONE !")
+print("Hello, World!\n DONE =D !")
